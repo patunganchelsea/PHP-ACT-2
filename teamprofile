@@ -1,0 +1,263 @@
+<!DOCTYPE html>
+
+<html lang="en">
+
+  <head>
+
+    <meta name = "viewport" content="width=device-width,initial-scale=1.0"/>
+
+    <title> GROUP 7 - TEAM PROFILE </title>
+
+    <!-- Font Awesome -->
+
+    <link rel="stylesheet" 
+
+    href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.4/css/all.min.css"
+
+    />
+
+    <!-- Google Font -->
+
+    <link
+
+    href="https://fonts.googleaepis.com/css2? family=Poppins:wght@300;500;600&display=swap"
+
+    rel="stylesheet"
+
+    />
+
+    <!-- Stylesheet -->
+
+    <link rel="stylesheet" href="styles/style.css" type="text/css">
+
+  </head>
+
+  <body>
+
+    <section> 
+
+    <div class="row">
+
+      <h1> OUR TEAM</h1>
+
+    </div>
+
+    <div class="row">
+
+      <!-- Column 1 -->
+
+      <div  class="column">
+
+        <div class="card">
+
+          <div class="img-container">
+
+            <img src="https://assets.onecompiler.app/42qcmpfpx/42qcnbvnw/DANNICA.1%20(2).jpg"/>
+
+          </div>
+
+          <h3> Dannica Arciaga</h3>
+
+          <p>21 years old</p>
+
+          <p>June 18, 2003</p>
+
+          <p> "Do good, and good will come back to you".</p>
+
+          <p><?php echo 'I am the breadwinner in our family and my sideline is an online business so that I can support the family every day while I am still studying.'; ?></p>
+
+          <div class="icons">
+
+            <a href="#">
+
+                  <i class="fab fa-instagram"></i>
+
+            </a>
+
+            <a href="#">
+
+                  <i class="fab fa-linkedin"></i>
+
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+       <!-- Column 2 -->
+
+      <div  class="column">
+
+        <div class="card">
+
+          <div class="img-container">
+
+            <img src="https://assets.onecompiler.app/42qcmpfpx/42qcnbvnw/GWEN1.jfif" />
+
+          </div>
+
+          <h3> Guinever Bacunawa</h3>
+
+          <p>20 years old</p>
+
+          <p>August 13, 2004</p>
+
+          <p> "Find joy in the ordinary".</p>
+
+          <p> <?php echo 'My hobbies are listening to music and playing games. I love to spend time with my cat.'; ?></p>
+
+          <div class="icons">
+
+            <a href="#">
+
+                  <i class="fab fa-instagram"></i>
+
+            </a>
+
+            <a href="#">
+
+                  <i class="fab fa-linkedin"></i>
+
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+       <!-- Column 3 -->
+
+      <div  class="column">
+
+        <div class="card">
+
+          <div class="img-container">
+
+            <img src="https://assets.onecompiler.app/42qcmpfpx/42qcnbvnw/LAUREN%20(4).jfif" />
+
+          </div>
+
+          <h3> Lauren P. Flores</h3>
+
+          <p>22 years old</p>
+
+          <p>April 17, 2002</p>
+
+          <p> "Treat others the way you want to be treated".</p>
+
+          <p><?php echo 'Cats are my favorite, and they always bring me comfort. I make time to work out three times a week to stay active and clear my mind. In my downtime, I enjoy watching documentaries to learn something new.';?></p>
+
+          <div class="icons">
+
+            <a href="#">
+
+                  <i class="fab fa-instagram"></i>
+
+            </a>
+
+            <a href="#">
+
+                  <i class="fab fa-linkedin"></i>
+
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+        <!-- Column 4-->
+
+      <div  class="column">
+
+        <div class="card">
+
+          <div class="img-container">
+
+            <img src="https://assets.onecompiler.app/42qcmpfpx/42qcnbvnw/MARYROSE1.jpg" />
+
+          </div>
+
+          <h3> Mary Rose A. Venegra</h3>
+
+          <p>20 years old</p>
+
+          <p>December 30, 2003</p>
+
+          <p> "Start where you are. Use what you have. Do what you can".</p>
+
+          <p><?php echo'I also work in Service First as a Loan Specialist for a year up to present. My hobbies are watching k-dramas and singing.'; ?></p>
+
+          <div class="icons">
+
+            <a href="#">
+
+                  <i class="fab fa-instagram"></i>
+
+            </a>
+
+            <a href="#">
+
+                  <i class="fab fa-linkedin"></i>
+
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+       <!-- Column 5 -->
+
+      <div  class="column">
+
+        <div class="card">
+
+          <div class="img-container">
+
+            <img src="https://assets.onecompiler.app/42qcmpfpx/42qcnbvnw/CHELS1%20(4).jpg" />
+
+          </div>
+
+          <h3> Chelsea V.Patungan </h3>
+
+          <p>23 years old</p>
+
+          <p>August 13, 2001</p>
+
+          <p>"You don't get what you wish for. You get what you work for".</p>
+
+          <p><?php echo'My hobbies are i like playing violin , watching movies, dancing, all of this is my stress reliever'; ?></p>
+
+          <div class="icons">
+
+            <a href="#">
+
+                  <i class="fab fa-instagram"></i>
+
+            </a>
+
+            <a href="#">
+
+                  <i class="fab fa-linkedin"></i>
+
+            </a>
+
+          </div>
+
+        </div>
+
+      </div>
+
+     </div>
+
+    </section>
+
+
+
+
